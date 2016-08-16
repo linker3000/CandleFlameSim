@@ -1,2 +1,2 @@
 # CandleFlameSim
-Candle flame simulator based on PIC Microcontroller
+Candle flame/flicker simulator based on PIC Microcontroller
