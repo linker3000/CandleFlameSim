@@ -1,5 +1,7 @@
 # CandleFlameSim
-Candle flame/flicker simulator based on PIC Microcontroller
+Candle flame/flicker simulator based on PIC Microcontroller.
+
+The original circuit was designed for use with LEDs or low-voltage lamps (you'll find details in the code comments), but it can be easily adapted for bigger loads as below.
 
 ![Image](flicker.jpg)
 *Driving a logic level FET via 120 Ohm resistor - used with a 12V 20/50W halogen lamp or 55W car headlamp bulb for stage effects (fireplaces etc.)*
